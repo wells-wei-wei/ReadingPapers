@@ -8,6 +8,8 @@
  -->
 # 阅读论文记录
 
+部分公式在github无法直观看到，可以移步知乎查看完整文章（每篇文章开头为知乎网址）
+
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://github.com/wells-wei-wei/ReadingPapers/blob/master/smplify-x%E5%9F%BA%E6%9C%AC%E8%AE%B2%E8%A7%A3/smplify-x%E5%9F%BA%E6%9C%AC%E8%AE%B2%E8%A7%A3.md)
 
 [Tex2Shape: Detailed Full Human Body Geometry From a Single Image
