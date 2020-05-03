@@ -11,4 +11,4 @@
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://github.com/wells-wei-wei/ReadingPapers/blob/master/smplify-x%E5%9F%BA%E6%9C%AC%E8%AE%B2%E8%A7%A3/smplify-x%E5%9F%BA%E6%9C%AC%E8%AE%B2%E8%A7%A3.md)
 
 [Tex2Shape: Detailed Full Human Body Geometry From a Single Image
-](File:///tex2shape基本讲解/tex2shape.md)
+](https://github.com/wells-wei-wei/ReadingPapers/blob/master/tex2shape%E5%9F%BA%E6%9C%AC%E8%AE%B2%E8%A7%A3/tex2shape.md)
